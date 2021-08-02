@@ -1,0 +1,12 @@
+// utterances.json
+{
+  "origins": ["https://comments.letranger04.github.io"]
+}
+
+<script src="https://utteranc.es/client.js"
+        repo="letranger04/comments"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
